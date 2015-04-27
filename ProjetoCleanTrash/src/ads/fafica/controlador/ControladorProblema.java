@@ -12,6 +12,7 @@ public class ControladorProblema {
   		// instancia o objeto RepositorioPessoaFisicaArray
   		this.repositorioProblema = new RepositorioProblema(); 
   		System.out.println("Teste GitHub.com");
+  		System.out.println("Teste GitHub.com");
   	}
 	
 	public void inserirProblema (Problema problema) throws RepositorioException {						
